@@ -3,7 +3,7 @@
     "id": "global-maintenance",
     "type": "global",
     "enabled": true,
-    "message": "iQIES will be down for scheduled maintenance Thursday, June 2, 2021 8PM ET to 9PM ET.",
+    "message": "iQIES will be down for scheduled maintenance Thursday, June 3, 2021 8PM ET to 9PM ET.",
     "dismissible": true,
     "alertType": "info"
   }
