@@ -3,7 +3,7 @@
     "id": "global-maintenance",
     "type": "global",
     "enabled": true,
-    "message": "iQIES will be unavailable Saturday, July 23, 2022 from 7AM EDT to 9AM EDT, for scheduled maintenance",
+    "message": "iQIES will be unavailable Saturday, July 23, 2022 from 7AM EDT to 9AM EDT, for scheduled maintenance.",
     "dismissible": true,
     "alertType": "info"
   }
