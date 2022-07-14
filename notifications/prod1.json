@@ -2,8 +2,8 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": false,
-    "message": "iQIES S&C functionality will be unavailable from Friday, May 6, 2022 8PM ET until Sunday, May 8, 2022 8AM ET, for scheduled maintenance.",
+    "enabled": true,
+    "message": "iQIES will be unavailable Saturday, July 23, 2022 from 7AM EDT to 9AM EDT, for scheduled maintenance",
     "dismissible": true,
     "alertType": "info"
   }
