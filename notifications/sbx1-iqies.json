@@ -3,7 +3,7 @@
     "id": "global-maintenance",
     "type": "global",
     "enabled": true,
-    "message": "Notification test",
+    "message": "This message is to inform you that iqies@cms.hhs.gov will be temporarily unavailable starting Friday, September 2, 2022 at 8pm EST and ending on Tuesday, September 6, 2022. Please utilize CCSQ Support Central “Create a Ticket” to submit an iQIES Service Center ticket.",
     "dismissible": false,
     "alertType": "warning"
   }
