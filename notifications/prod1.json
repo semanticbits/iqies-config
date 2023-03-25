@@ -2,7 +2,7 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": true,
+    "enabled": false,
     "message": "This message is to inform you that iQIES may experience brief downtime and interruptions on 3/25/2023 starting at 10:30am EST until 12:30pm EST.",
     "dismissible": true,
     "alertType": "info"
