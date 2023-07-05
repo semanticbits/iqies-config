@@ -6,13 +6,5 @@
     "message": "This message is to inform you that iQIES will be unavailable from Thursday, April 13, 2023 from 8 PM EDT to Monday, April 17, 2023 8 AM EDT, for scheduled maintenance.",
     "dismissible": true,
     "alertType": "info"
-  },
-  {
-    "id": "CS1985809",
-    "type": "global",
-    "enabled": true,
-    "message": "An issue has been identified within MDS where assessments submitted as the second modification (X0800=2) are being incorrectly rejected as a duplicate assessment (edit -1007).  The first modification assessment should be accepted. To avoid rejected assessments, providers should withhold submitting a second assessment modification until this issue can be corrected.  If you suspect that a modification assessment was incorrectly rejected, you will need to resubmit once this issue has been resolved.",
-    "dismissible": true,
-    "alertType": "info"
   }
 ]
