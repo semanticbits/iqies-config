@@ -6,13 +6,5 @@
     "message": "This message is to inform you that iQIES may experience brief downtime and interruptions on 8/2/2023 starting at 8pm EST until 9pm EST.",
     "dismissible": true,
     "alertType": "info"
-  },
-  {
-    "id": "systems-team",
-    "type": "global",
-    "enabled": true,
-    "message": "We are aware of a system issue affecting the ability to log into iQIES. Thanks for your patience while the systems team works diligently to resolve this widespread issue.",
-    "dismissible": true,
-    "alertType": "info"
   }
 ]
