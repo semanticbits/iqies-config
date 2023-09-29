@@ -11,7 +11,7 @@
     "id": "systems-team",
     "type": "global",
     "enabled": true,
-    "message": "We are aware of an issue effecting the ability to log into iQIES.  Thanks for your patience while the systems team works diligently to resolve this widespread issue.",
+    "message": "We are aware of a system issue affecting the ability to log into iQIES. Thanks for your patience while the systems team works diligently to resolve this widespread issue.",
     "dismissible": true,
     "alertType": "info"
   }
