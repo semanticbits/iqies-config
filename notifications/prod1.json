@@ -3,7 +3,7 @@
     "id": "global-maintenance",
     "type": "global",
     "enabled": false,
-    "message": "This message is to inform you that iQIES and state server access to databases will be down for up to 60 minutes on 1/20/2024 starting at 9am EST until 10am EST.",
+    "message": "This message is to inform you that iQIES databases will be under maintanence on 06/15/2024 starting at 9am EST until 11am EST. Website and databases may experience a brief interruption and data processing may be delayed until maintanence concludes.",
     "dismissible": true,
     "alertType": "info"
   }
