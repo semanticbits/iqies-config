@@ -2,7 +2,7 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": true,
+    "enabled": false,
     "message": "This message is to inform you that iQIES databases will be under maintenance on 07/20/2024 starting at 9am EST until 07/21/2024 3pm EST. Website and databases may experience a brief interruption and data processing may be delayed until maintenance concludes.",
     "dismissible": true,
     "alertType": "info"
