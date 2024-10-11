@@ -2,7 +2,7 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": true,
+    "enabled": false,
     "message": "This message is to inform you that iQIES may experience interruptions due to HARP maintenance between Friday, October 18, 5:00 PM ET and Monday, October 21, 6:00 AM ET. Users may experience interruptions requesting and approving roles.",
     "dismissible": true,
     "alertType": "info"
