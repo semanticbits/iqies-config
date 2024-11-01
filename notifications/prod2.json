@@ -12,7 +12,7 @@
     "type": "home",
     "enabled": true,
     "message": "The iQIES Training Environment is for training and testing purposes only, for the provider types that are currently live in iQIES - HHA, ASC and Hospice. We encourage you to submit feedback while you preview the iQIES Training Environment for these provider types only. Please note that although you may see Nursing Home functionality while exploring the training environment, these functionalities are not fully developed and are subject to change. To submit feedback for the HHA, ASC and Hospice provider types, please send an email to iqies@cms.hhs.gov using the subject line: iQIES Training Environment Feedback. If you have any questions, please contact our QIES/iQIES Service Center at: iqies@cms.hhs.gov or call 1-800-339-9313.The iQIES Training Environment is for training and testing purposes only, for the provider types that are currently live in iQIES - HHA, ASC and Hospice. We encourage you to submit feedback while you preview the iQIES Training Environment for these provider types only. Please note that although you may see Nursing Home functionality while exploring the training environment, these functionalities are not fully developed and are subject to change. To submit feedback for the HHA, ASC and Hospice provider types, please send an email to iqies@cms.hhs.gov using the subject line: iQIES Training Environment Feedback. If you have any questions, please contact our QIES/iQIES Service Center at: iqies@cms.hhs.gov or call 1-800-339-9313.",
-    "dismissible": true,
-    "alertType": "warning"
+    "dismissible": false,
+    "alertType": "info"
   }
 ]
