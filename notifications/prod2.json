@@ -2,7 +2,7 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": true,
+    "enabled": false,
     "message": "This is the iQIES Training Environment for training and testing purposes only. We encourage you to submit feedback while you preview the iQIES Training Environment. Your input is valuable and will help us continue to improve the system. To submit feedback, please send an email to iqies@cms.hhs.gov using the subject line: iQIES Training Environment Feedback. If you have any questions, please contact our QIES/iQIES Service Center at: iqies@cms.hhs.gov or call 1-800-339-9313",
     "dismissible": false,
     "alertType": "info"
