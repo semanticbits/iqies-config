@@ -2,8 +2,8 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": false,
-    "message": "This message is to inform you that on October 26th data processing and reports may be delayed from 9:00 ET until 10:00 ET. Processing and reports will resume automatically once maintenance concludes.",
+    "enabled": true,
+    "message": "This message is to inform you that iQIES may experience interruptions due to HARP maintenance on Thursday, February 6 between 6:00 PM ET and 10:00 PM ET. Users may experience interruptions requesting and approving roles.",
     "dismissible": true,
     "alertType": "info"
   }
