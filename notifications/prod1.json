@@ -2,8 +2,8 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": false,
-    "message": "This message is to inform you that iQIES may experience interruptions due to HARP maintenance on Thursday, February 6 between 6:00 PM ET and 10:00 PM ET. Users may experience interruptions requesting and approving roles.",
+    "enabled": true,
+    "message": "This message is to inform you that iQIES databases will be under maintenance on 03/15/2025 starting at 9am EST until 1pm EST. Website and databases may experience a brief interruption and data processing may be delayed until maintenance concludes.",
     "dismissible": true,
     "alertType": "info"
   }
