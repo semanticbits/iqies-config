@@ -2,8 +2,8 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": false,
-    "message": "iQIES will be unavailable Thursday, February 4th from 8PM ET to 11PM ET for scheduled maintenance.",
+    "enabled": true,
+    "message": "iQIES Survey and Certification (S&C) functionality will be unavailable from Wednesday, May 21, 2025 8 p.m. ET until Friday, May 23, 2025 1 p.m ET, for scheduled maintenance (NH Launch Dry Run). The My Tasks page will display but links to areas of the application will not be functional during the scheduled maintenance period.",
     "dismissible": false,
     "alertType": "info"
   }
