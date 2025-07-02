@@ -2,8 +2,8 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": false,
-    "message": "This message is to inform you that iQIES databases will be under maintenance on 03/15/2025 starting at 9am EST until 1pm EST. Website and databases may experience a brief interruption and data processing may be delayed until maintenance concludes.",
+    "enabled": true,
+    "message": "To prepare for the iQIES Survey & Certification Nursing Home launch on July 14, the iQIES system will be unavailable on Friday, July 11, beginning at 8:00 pm ET for Survey & Certification (S&C) operations. The system will remain available to providers for patient assessment submissions. iQIES for S&C operations is expected to be available no later than Monday, July 14, at 8:00 am ET.",
     "dismissible": true,
     "alertType": "info"
   }
