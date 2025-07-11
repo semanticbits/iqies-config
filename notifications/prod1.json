@@ -2,7 +2,7 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": true,
+    "enabled": false,
     "message": "To prepare for the iQIES Survey & Certification Nursing Home launch on July 14, the iQIES system will be unavailable on Friday, July 11, beginning at 8:00 pm ET for Survey & Certification (S&C) operations. The system will remain available to providers for patient assessment submissions. iQIES for S&C operations is expected to be available no later than Monday, July 14, at 8:00 am ET.",
     "dismissible": true,
     "alertType": "info"
